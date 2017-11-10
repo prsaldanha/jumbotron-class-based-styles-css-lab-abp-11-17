@@ -15,7 +15,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -68,5 +68,4 @@ p #jumbotron{
   padding-top: 0;
   padding-bottom: 0;
   line-height: 40px;
-  
 }
